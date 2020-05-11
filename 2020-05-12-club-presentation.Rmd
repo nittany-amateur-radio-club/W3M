@@ -1,5 +1,5 @@
 ---
-title: "W3M 2020 Presentation"
+title: "W3M Special Event Station"
 author: "Rick Gilmore K3ROG"
 date: "`r Sys.time()`"
 css: css/ioslides.css
