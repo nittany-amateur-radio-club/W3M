@@ -88,10 +88,10 @@ Work as many or as few stations as you feel like.
 
 ### CW
 
-> CQ CQ CQ W3M W3M W3M sp evt k
+> CQ CQ CQ W3M W3M W3M special event k
 
-> <CALL> <CALL> de W3M  --- tu ur rst 5nn 5nn in boalsburg pa ? boalsburg pa --
+> <THEIR-CALL> <THEIR-CALL> de W3M  --- tu ur rst 5nn 5nn in boalsburg pa ? boalsburg pa --
 
 > birthplace of memorial day --
 
-> qsl info on qrz hpe cu agn 73 73 sk <CALL> de w3m k
+> qsl info on qrz -- hpe cu agn 73 73 sk <THEIR-CALL> de w3m 
