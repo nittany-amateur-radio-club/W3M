@@ -62,12 +62,17 @@ Please enter your callsign, band, and mode.
 **75m/80m**: 3.578Mhz (JS8Call), 3.580 (PSK31) 3.845 MHz (LSB)</br>
 **40m**: 7.011 MHz (CW), 7.070 (PSK31), 7.078Mhz (JS8Call), 7.190 MHz (LSB)</br>
 **20m**: 14.078Mhz (JS8Call), 14.070 MHz (PSK31), 14.245 MHz (USB)</br>
-**15m**: Band conditions permitting...
-**2m**: 146.85 W3YA repeater (-600 kHz, 146.2 Hz PL)
-**Allstar**: node 51401
-**Echolink**: node 495344
+**15m**: Band conditions permitting...</br>
+**2m**: 146.85 W3YA repeater (-600 kHz, 146.2 Hz PL)</br>
+**Allstar**: node 51401</br>
+**Echolink**: node 495344</br>
 
 ## QSO templates
+
+These are just suggestions to get you going.
+Feel free to improvise.
+Have fun. 
+Work as many or as few stations as you feel like.
 
 ### Phone
 
