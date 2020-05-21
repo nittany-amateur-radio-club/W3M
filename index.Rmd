@@ -20,7 +20,14 @@ knitr::include_graphics("img/boalsburg-sign.png")
 
 Boalsburg, Pennsylvania was one of the first communities in the U.S. to celebrate Memorial Day. The town is widely credited as the holiday's birthplace. In honor of Boalsburg's role in history, the Nittany Amateur Radio Club (https://nittany-arc.net) will staff a special event station operating with the call sign W3M from Friday, May 22 through Monday, May 25, 2020. In a typical year, the special event station operation would coincide with a community-wide celebration featuring events for all ages and interests (https://www.facebook.com/MemorialDayInBoalsburg). In 2020, the community-wide celebration has been cancelled, but the W3M special event station will go on thanks to hams operating from their own home stations.
 
-Look for W3M operators on or around 3.845 MHz, 7.190 MHz, and 14.245 MHz, on standard digital mode "watering holes", in the slower portions of the CW sub-bands, on Allstar node 51401 or Echolink 495344. We plan to operate from 1800 - 2000 EDT on Friday, May 22; from 0800 to 2000 EDT on Saturday and Sunday, May 23 and 24; and from 0800 to 1800 EDT on Monday, May 25.
+Look for W3M operators on or around 3.845 MHz, 7.190 MHz, and 14.245 MHz, on standard digital mode "watering holes", in the slower portions of the CW sub-bands, on Allstar node 51401 or Echolink 495344. 
+
+We plan to operate as follows:
+
+Friday, May 22 -- 1800 to 2200 (6p-10p) EDT</br>
+Saturday, May 23 -- 0800 to 2000 (8a-8p) EDT</br>
+Sunday, May 24 -- 0800 to 2000 (8a-8p) EDT</br>
+Monday, May 25 -- 0800 to 2000 (8a-8p) EDT
 
 To receive a QSL card, please send a self-addressed stamped envelope with your QSL information or card to:
 
