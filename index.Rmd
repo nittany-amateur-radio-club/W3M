@@ -56,6 +56,10 @@ https://nittany-amateur-radio-club.github.io/W3M
 
 K3ROG suggests that the W3GA 146.76 repeater be used to coordinate among operating stations.
 
+There is an APRS object centered on the Three Ladies Statue:
+
+https://aprs.fi/#!mt=roadmap&z=11&call=a%2FW3M&timerange=3600&tail=3600
+
 ## Schedule
 
 We are coordinating operations via this Google sheet:
