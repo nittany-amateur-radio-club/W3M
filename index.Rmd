@@ -105,4 +105,15 @@ Work as many or as few stations as you feel like.
 
 > birthplace of memorial day --
 
-> qsl info on qrz -- hpe cu agn 73 73 sk <THEIR-CALL> de w3m 
+> qsl info on qrz -- hpe cu agn 73 73 sk <THEIR-CALL> de w3m
+
+# Operation report
+
+The following operators participated: WA3FET, K0LO, K3CWP, N3LI, K3QP, K3ROG, W3SWL, & K3YV.
+
+QSO counts are still coming in, but we had > 1,500 phone contacts, > 75 CW contacts, & > 40 digital (FT8, PSK31, JS8Call) contacts.
+
+Two CW operators emailed me to report that they'd made their first CW QSOs with our station.
+One phone operator emailed me to say that he'd made his first HF contact with our station.
+I personally contacted a JE station for my first-ever contact from that country.
+One SWL listener from Iraq reported hearing our CW station at 499.
