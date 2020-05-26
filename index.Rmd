@@ -111,9 +111,37 @@ Work as many or as few stations as you feel like.
 
 The following operators participated: WA3FET, K0LO, K3CWP, N3LI, K3QP, K3ROG, W3SWL, & K3YV.
 
-QSO counts are still coming in, but we had > 1,500 phone contacts, > 75 CW contacts, & > 40 digital (FT8, PSK31, JS8Call) contacts.
+QSO counts are still coming in, but we had > 1,800 phone contacts, > 75 CW contacts, & > 40 digital (FT8, PSK31, JS8Call) contacts.
 
 Two CW operators emailed me to report that they'd made their first CW QSOs with our station.
 One phone operator emailed me to say that he'd made his first HF contact with our station.
-I personally contacted a JE station for my first-ever contact from that country.
+K3ROG contacted a JE station for his first-ever contact from that country.
 One SWL listener from Iraq reported hearing our CW station at 499.
+
+## Emails received
+
+>"*Thanks for being patient with me during my first cw contact with you....I logged you as W3M, is this correct?  I know I was very sloppy and I will be more prepared as to what to say for my next contact.  My radio is a Yaesu ftdx-3000 and I was running 30 watts to a g5rv antenna in my attic.*"
+
+>"*I wanted to say hello as you were the first contact I have ever had on HF. I just recently upgraded to General last Saturday. I would love to get a QSL card from you if that is possible.*"
+> "*Being I am new to this I don't quite yet have a QSL Card of my own. I actually was talking to you on a Yaesu FT-1000 with a homemade sloped Dipole only 26 feet in the air. I am in Wellington, CO to give you an idea of where I am.*"
+>"*I am originally from Gouldsboro, PA born and raised until I moved to Colorado in 2010 for the Army.*"
+
+>"*Hello! I just worked the station on 7.111 CW, and just wanted to say thank you for the op for being patient and working me on CW! That was my first ever CW QSO on HF! Ive been working in trying to learn code for a few years, and finally decided to give it a try today. Once again thanks and 73*"
+
+## QSLs
+
+K3ROG received one QSL card in the mail on Tuesday.
+
+```{r, echo=FALSE}
+knitr::include_graphics("img/NH6BD-W3M.png")
+```
+
+K3ROG and K3YV are working on a QSL card inspired by the "Three Ladies" statue.
+
+## Suggestions for next year
+
+1. Shorten the operating period.
+2. Have more involvement in event planning.
+3. Have more event promotion.
+4. Try to expand CW and digital participation.
+
