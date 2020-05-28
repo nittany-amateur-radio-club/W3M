@@ -138,6 +138,19 @@ knitr::include_graphics("img/NH6BD-W3M.png")
 
 K3ROG and K3YV are working on a QSL card inspired by the "Three Ladies" statue.
 
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+w3m_2020 <- readr::read_csv("csv/w3m-qsos.csv")
+
+w3m_stats <- w3m_2020 %>%
+  dplyr::select(., qsos, mode) %>%
+  dplyr::group_by(., mode) %>%
+  dplyr::summarise(., tot_qsos = sum(qsos))
+
+ggplot(w3m_stats) +
+  geom_col(aes(mode, tot_qsos, fill=mode))
+```
+
 ## Suggestions for next year
 
 1. Shorten the operating period.
